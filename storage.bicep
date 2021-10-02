@@ -1,6 +1,6 @@
 @minLength(3)
 @maxLength(19)
-param stgActPrefix string
+param   string
 
 @allowed([
   'Standard_LRS'
